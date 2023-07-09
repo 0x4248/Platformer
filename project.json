@@ -1,0 +1,12 @@
+{
+    "name": "Platformer",
+    "description": "A simple unity game",
+    "version": "",
+    "main_file": "none",
+    "author": "Lewis Evans",
+    "license": "none",
+    "url": "https://www.github.com/lewisevans2007/Platformer",
+    "email": "none",
+    "languages": [],
+    "actions": {}
+}
